@@ -127,10 +127,6 @@ Final-Year B.Tech (Electronics & Computer Engineering)
 
 Aspiring Data Analyst
 
-### Connect with me
-
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
 
 ---
 
